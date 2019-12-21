@@ -1,2 +1,2 @@
-# thecorbinolsen
+# The Corbin Olsen
 Personal Website
